@@ -3,5 +3,5 @@
 ####Feature A updates
 
 -[x] write a press release
--[ ] update the website
+-[ ] update the websites
 -[x] contact the media
